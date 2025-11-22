@@ -30,7 +30,7 @@ export default function MainLayout({ children, title }: MainLayoutProps) {
             <SidebarContent className="flex flex-col">
               <SidebarHeader>
                 <Link href="/" className="font-bold text-2xl text-primary">
-                 Vidyalay Sarathi
+                 Attendance Sarathi
                 </Link>
               </SidebarHeader>
               <SidebarMenu className="flex-1">

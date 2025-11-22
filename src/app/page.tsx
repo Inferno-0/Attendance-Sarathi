@@ -132,7 +132,7 @@ export default function Home() {
         <div className="relative z-10 w-full max-w-4xl p-8">
             <div className="mb-12 text-center">
               <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-2 text-primary">
-                Vidyalay Sarathi
+                Attendance Sarathi
               </h1>
               <p className="text-md md:text-lg text-muted-foreground max-w-md mx-auto">
                 Smart Attendance Tracking Application for Rural Schools

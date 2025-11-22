@@ -12,7 +12,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Vidyalay Sarathi</title>
+        <title>Attendance Sarathi</title>
         <meta name="description" content="An AI-powered attendance tracking application" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
